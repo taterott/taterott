@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @taterott
+- 👀 I’m interested in video game engines, video games
+- 🌱 I’m currently learning C++
